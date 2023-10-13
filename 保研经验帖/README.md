@@ -31,6 +31,7 @@
 * @[404NotFound](https://www.zhihu.com/people/404not-found-31-86)的[2023年计算机专业保研经验帖（北大计院、北大软微、同济电院、南大软件所等）](https://zhuanlan.zhihu.com/p/659303117)
 * @[纯和高茎豌豆](https://www.zhihu.com/people/cryomaster)的[2023年计算机保研小记（南大AI、复旦CS）](https://zhuanlan.zhihu.com/p/659021845)
 * @[lx_tyin](https://www.zhihu.com/people/tyin-84)的[24届计算机推免 四非0科研图形学菜狗的经验贴（北航vr、南开cs）](https://zhuanlan.zhihu.com/p/659054002)
+* @[做梦都想上岸然后开摆](https://www.acwing.com/user/myspace/index/284490/)的[苦尽甘来，金石为开 | 面试10校，陶瓷300，上岸浙软 | 西工大光电院、上科大信息学院、深大计算机学院、湖大信息学院、哈工威计算机学院、东南计算机学院、天大智算学部、浙大软院、电子科大计算机学院、西工大软院](https://www.acwing.com/file_system/file/content/whole/index/content/10148945/)
 
 ## 2022夏令营总结贴
 
